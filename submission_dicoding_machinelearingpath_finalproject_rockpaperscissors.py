@@ -19,7 +19,7 @@ Original file is located at
 
 = Name    : Nisrina Ishmah Mahira / <a href="https://www.linkedin.com/in/nisrinaishmah/" target="_blank">LinkedIn</a>
 
-= Email   : nisrinaishmahmahira@gmail.com
+= Email   : nisrinaishmah@.com
 
 = ID Dicoding : <a href='https://www.dicoding.com/users/ishmanis/' target="_blank">ishmanis</a>
 
