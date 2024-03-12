@@ -30,15 +30,15 @@ The parameters used in ImageDataGenerator include:
 
 5. Sequential Model: You built the model using a sequential approach, where layers were added sequentially. The model consists of:
 
-🔑Convolutional Layer (Conv2D): This layer extracts spatial features from the image. In this project, you used 3 Conv2D layers, each with 32, 64, and 128 filters. Each layer was followed by MaxPooling2D to reduce the data dimension and prevent overfitting.
+⚙️Convolutional Layer (Conv2D): This layer extracts spatial features from the image. In this project, you used 3 Conv2D layers, each with 32, 64, and 128 filters. Each layer was followed by MaxPooling2D to reduce the data dimension and prevent overfitting.
 
-🔑Flatten Layer: This layer converts the data from a 3-dimensional tensor to a 1-dimensional tensor before entering the hidden layer.
+⚙️Flatten Layer: This layer converts the data from a 3-dimensional tensor to a 1-dimensional tensor before entering the hidden layer.
 
-🔑Dense Layer (Dense): The Dense layer acts as a fully-connected layer. You used 2 Dense layers with 512 and 256 neurons each to learn high-level representations of the features extracted by the convolutional layer.
+⚙️Dense Layer (Dense): The Dense layer acts as a fully-connected layer. You used 2 Dense layers with 512 and 256 neurons each to learn high-level representations of the features extracted by the convolutional layer.
 
-🔑Dropout Layer (Dropout): The Dropout layer is used to prevent overfitting by randomly disabling neurons during training. You used dropout with a rate of 0.5.
+⚙️Dropout Layer (Dropout): The Dropout layer is used to prevent overfitting by randomly disabling neurons during training. You used dropout with a rate of 0.5.
 
-🔑Output Layer (Dense): The output layer uses the softmax activation function to predict the probability of the three classes (Rock, Paper, Scissors).
+⚙️Output Layer (Dense): The output layer uses the softmax activation function to predict the probability of the three classes (Rock, Paper, Scissors).
 
 6. Compile Model: The model was compiled with the Adam optimizer, categorical_crossentropy loss function, and accuracy metrics. The Adam optimizer helps to accelerate the training process to find optimal weights. Categorical crossentropy is used as the loss function for multi-class classification problems. Accuracy is used as a metric to measure the model's performance.
 
