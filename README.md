@@ -1,6 +1,6 @@
-# Machine Learning for Beginners : Artificial Neural Network Program to Recognize Hand Shapes that Form Scissors Rock or Paper by DICODING🌈🪄 
+# Machine Learning for Beginners : Artificial Neural Network Program to Recognize Hand Shapes that Form Scissors, Rock or Paper by DICODING🌈🪄 
 
-## I have successfully completed the Rock, Paper, Scissors project for Dicoding Machine Learning. The detailed explanation of this project is as follows:
+## I have successfully completed the ANN project. The detailed explanation of this project is as follows:
 
 ### Project Steps📝📂:
 
