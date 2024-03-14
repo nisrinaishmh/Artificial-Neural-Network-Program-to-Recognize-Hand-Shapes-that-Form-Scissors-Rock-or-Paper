@@ -1,4 +1,4 @@
-# DICODING Machine Learning for Beginners : Artificial Neural Network Program to Recognize Hand Shapes that Form Scissors Rock or Paper🌈🪄 
+# Machine Learning for Beginners : Artificial Neural Network Program to Recognize Hand Shapes that Form Scissors Rock or Paper by DICODING🌈🪄 
 
 ## I have successfully completed the Rock, Paper, Scissors project for Dicoding Machine Learning. The detailed explanation of this project is as follows:
 
@@ -12,13 +12,13 @@
 
 The parameters used in ImageDataGenerator include:
 
-*rescale: scales the pixel values of the image from [0-255] to [0-1].
-*rotation_range: randomly rotates the image within a specific range (degrees).
-*width_shift_range, height_shift_range: randomly shifts the image on the horizontal and vertical axes.
-*shear_range: randomly bends the image.
-*zoom_range: randomly zooms in or out (reduces) the image.
-*horizontal_flip: randomly flips the image horizontally.
-*validation_split: splits the dataset into a training set (60%) and a validation set (40%).
+* rescale: scales the pixel values of the image from [0-255] to [0-1].
+* rotation_range: randomly rotates the image within a specific range (degrees).
+* width_shift_range, height_shift_range: randomly shifts the image on the horizontal and vertical axes.
+* shear_range: randomly bends the image.
+* zoom_range: randomly zooms in or out (reduces) the image.
+* horizontal_flip: randomly flips the image horizontally.
+* validation_split: splits the dataset into a training set (60%) and a validation set (40%).
 
 4. Splitting the Dataset: ImageDataGenerator was then used to create generators for the training and validation sets. The training set was used to train the model, while the validation set was used to evaluate the model's performance during training.
 
