@@ -1,4 +1,4 @@
-<h1 align="center">Machine Learning for Beginners : Artificial Neural Network Program to Recognize Hand Shapes that Form Scissors, Rock or Paper by DICODING🌈🪄</h1>
+<h1 align="center">Machine Learning for Beginners : Artificial Neural Network Program to Recognize Hand Shapes that Form Rock, Paper, or Scissors by DICODING🌈🪄</h1>
 
 ## I have successfully completed the ANN project. The detailed explanation of this project is as follows:
 
