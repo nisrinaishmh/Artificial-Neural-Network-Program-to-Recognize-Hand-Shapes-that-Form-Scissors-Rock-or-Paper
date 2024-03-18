@@ -2,7 +2,7 @@
 
 ## I have successfully completed the ANN project. The detailed explanation of this project is as follows:
 
-### About Rock, Paper, and Scissors
+### About Rock, Paper, and Scissors ✊✋✌️
 
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlpNDE0NjFoYzF2NmFuZmgxZzQzMm5wdTlzNGY0MWxjZmhlZHVpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B9OQo8AvUDmJPTrUON/giphy.gif"> 
 
