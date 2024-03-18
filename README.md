@@ -4,10 +4,10 @@
 
 ### About Rock, Paper, and Scissors
 
+<img align="right" alt="coding" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlpNDE0NjFoYzF2NmFuZmgxZzQzMm5wdTlzNGY0MWxjZmhlZHVpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B9OQo8AvUDmJPTrUON/giphy.gif"> 
+
 Rock paper scissors (commonly scissors, paper, rock or stone in Australia and New Zealand)is an intransitive hand game, usually played between two people, in which each
 player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). The earliest form of "rock paper scissors"-style game originated in China and was subsequently imported into Japan, where it reached its modern standardized form, before being spread throughout the world in the early 20th century.
-
-<img align="right" alt="coding" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlpNDE0NjFoYzF2NmFuZmgxZzQzMm5wdTlzNGY0MWxjZmhlZHVpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B9OQo8AvUDmJPTrUON/giphy.gif"> 
 
 The name "rock paper scissors" is simply a translation of the Japanese words for the three gestures involved in the game, though the Japanese name for the game is different. The Japanese name is jan-ken-pon.
 
