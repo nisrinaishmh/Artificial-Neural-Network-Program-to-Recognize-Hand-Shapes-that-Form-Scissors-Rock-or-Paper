@@ -9,9 +9,9 @@ player simultaneously forms one of three shapes with an outstretched hand. These
 
 The name "rock paper scissors" is simply a translation of the Japanese words for the three gestures involved in the game, though the Japanese name for the game is different. The Japanese name is jan-ken-pon.
 
-A simultaneous, zero-sum game, it has three possible outcomes: a draw, a win or a loss. A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors" or "breaks scissors" or sometimes "blunts scissors"), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually replayed to break the tie.
-
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlpNDE0NjFoYzF2NmFuZmgxZzQzMm5wdTlzNGY0MWxjZmhlZHVpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B9OQo8AvUDmJPTrUON/giphy.gif"> 
+
+A simultaneous, zero-sum game, it has three possible outcomes: a draw, a win or a loss. A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors" or "breaks scissors" or sometimes "blunts scissors"), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually replayed to break the tie.
 
 Rock paper scissors is often used as a fair choosing method between two people, similar to coin flipping, drawing straws, or throwing dice in order to settle a dispute or make an unbiased group decision. Unlike truly random selection methods, however, rock paper scissors can be played with some degree of skill by recognizing and exploiting non-random behavior in opponents.
 
